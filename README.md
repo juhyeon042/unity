@@ -1,4 +1,4 @@
-### unity projt
+### unity project
 ### 똥 피하기 게임(3D)
 
 #설명
