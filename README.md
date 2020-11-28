@@ -16,6 +16,10 @@
 
 PROJECT-> 최종피피티,시연 영상-> 최종 피피티
 
+#게임 코드
+
+PROJECT-> New Unity Project -> Assets -> CODE
+
 #게임 실행
 
 PROJECT-> New Unity Project -> Build -> New Unity Project.exe 
