@@ -9,7 +9,9 @@
 5. 특정키를 누르면 게임을 다시 시작할 수 있다.
 
 #시연 영상
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pARldEm9uNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #최종 피피티
 
