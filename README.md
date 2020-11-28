@@ -10,8 +10,7 @@
 
 #시연 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pARldEm9uNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video Label](https://www.youtube.com/embed/pARldEm9uNU/0.jpg)](https://www.youtube.com/embed/pARldEm9uNU)
 
 #최종 피피티
 
