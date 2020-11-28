@@ -10,7 +10,7 @@
 
 #시연 영상
 
-[![시연 영상(클릭)](https://img.youtube.com/embed/pARldEm9uNU/0.jpg)](https://www.youtube.com/embed/pARldEm9uNU)
+[![Video Label](https://img.youtube.com/vi/pARldEm9uNU/0.jpg)](https://www.youtube.com/embed/pARldEm9uNU)
 
 #최종 피피티
 
